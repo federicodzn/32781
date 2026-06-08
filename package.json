@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "generate": "java -jar antlr-4.13.2-complete.jar -Dlanguage=JavaScript -visitor -listener -o generated ssl.g4"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,5 @@
+si verdadero entonces {
+    imprimir ( "Hola mundo" ) ;
+} sino {
+    imprimir ( "Condicion falsa" ) ;
+}

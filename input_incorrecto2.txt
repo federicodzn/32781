@@ -1,0 +1,6 @@
+si verdadero entonces {
+    imprimir("Hola, ¿cómo estás? @2026");
+} sino {
+    salir;
+}
+

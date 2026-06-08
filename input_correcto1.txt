@@ -1,0 +1,12 @@
+si verdadero entonces {
+    imprimir ( "Hola mundo" ) ;
+    imprimir ( "Segunda linea" ) ;
+} sino {
+    imprimir ( "Esto no se ejecuta" ) ;
+}
+ 
+si falso entonces {
+    imprimir ( "Tampoco esto" ) ;
+} sino {
+    salir ;
+}

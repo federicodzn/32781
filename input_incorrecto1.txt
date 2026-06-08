@@ -1,0 +1,6 @@
+si verdadero entonces {
+    imprimir("Hola mundo");
+} sino {
+    imprimir("Condicion falsa");
+}
+imprimir("Fuera de lugar");
